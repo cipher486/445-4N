@@ -253,6 +253,7 @@ def banner():
    C         I
    C
      C C C C                         """
+
     print(random.choice(colors)+logo+W)
     print("\n")
 
