@@ -24,13 +24,13 @@ do
 rm *.xxx >/dev/null 2>&1
 clear
 echo -e "\e[1;31m"
-figlet TBomb
+figlet CIPHERCALL
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border SpeedX
-echo -e "\e[4;34m This Bomber Was Created By SpeedX \e[0m"
+toilet -f mono12 -F border AAshAN
+echo -e "\e[4;34m This Was Created By AAshAN \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
-echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/GyanaTech \e[0m"
+echo -e "\e[1;32m           Mail: massmarigamgroup@gmail.com \e[0m"
+echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/massmarigamgroup \e[0m"
 echo " "
 echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
 echo " "
